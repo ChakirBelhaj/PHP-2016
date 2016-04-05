@@ -1,0 +1,1 @@
+<img src="lol.jpg" alt="Smiley face" height="42" width="42">
